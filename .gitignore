@@ -17,6 +17,9 @@
 /log/*.log
 /tmp
 
+# Uploads
+/public/system/
+
 # Configuration Files
 /config/database.yml
 /config/initializers/secret_token.rb

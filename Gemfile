@@ -8,6 +8,7 @@ gem 'jquery-rails', '~> 2.1.3'
 gem 'mysql2', '~> 0.3.11'
 gem 'devise', '~> 2.1.2'
 gem 'settingslogic', '~> 2.0.8'
+gem 'paperclip', '~> 3.3.0'
 
 gem 'sass-rails', '~> 3.2.4'
 gem 'coffee-rails', '~> 3.2.2'
