@@ -7,8 +7,27 @@
   <%= csrf_meta_tags %>
 </head>
 <body>
+  <div class="navbar navbar-inverse navbar-fixed-top">
+    <div class="navbar-inner">
+      <div class="container">
+        <%=link_to "dias.geraspora.de", root_path, :class=>"brand" %>
+        <ul class="nav">
+          <li><%= link_to "Alle Dias", root_path %></li>
+          <li><%= link_to "Impressum", "http://pages.geraspora.de/legal.html", :target => :blank %></li>
+        </ul>
+      </div>
+    </div>
+  </div>
 
-<%= yield %>
+  <div class="container">
+    <div class="hero-unit">
+      <p>
+        Die Geraspora* Dias sind die wechselnden Motive im Header von Geraspora*. Auf dieser
+        Seite findet sich ein Archiv und zusätzliche Informationen zu den Motiven! :)
+      </p>
+    </div>
 
+    <%= yield %>
+  </div>
 </body>
 </html>

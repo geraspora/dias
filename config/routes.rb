@@ -1,7 +1,9 @@
 Dias::Application.routes.draw do
   ActiveAdmin.routes(self)
 
+  resources :logos, :only => [:index, :show]
   devise_for :admin_users, ActiveAdmin::Devise.config
+  root :to => 'logos#index'
 
   # The priority is based upon order of creation:
   # first created -> highest priority.

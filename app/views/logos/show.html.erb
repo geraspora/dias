@@ -1,0 +1,46 @@
+<section id="donators">
+  <div class="page-header">
+    <h1>
+      <%= @logo.title %>
+      <small>
+        <% if @logo.end_date <= Date.today %>
+          <%= I18n.l @logo.start_date, :format => :long %>
+          -
+          <%= I18n.l @logo.end_date, :format => :long %>
+        <% else %>
+          seit <%= I18n.l @logo.start_date, :format => :long %>
+        <% end %>
+      </small>
+    </h1>
+  </div>
+
+  <div class="row detail">
+    <div class="span3 logo">
+      <%= image_tag(@logo.image.url, :alt => @logo.title) %>
+    </div>
+
+    <div class="span9">
+      <% unless @logo.description.empty? %>
+        <section>
+          <div class="page-header">
+            <h4>Die Geschichte</h4>
+          </div>
+
+          <%= format_text(@logo.description) %>
+        </section>
+      <% end %>
+
+      <% unless @logo.credits.empty? %>
+        <section>
+          <div class="page-header">
+            <h4>Die Credits</h4>
+          </div>
+
+          <%= format_text(@logo.credits) %>
+        </section>
+      <% end %>
+    </div>
+  </div>
+
+  <%= link_to "« Zurück", root_path, :class => "btn" %>
+</section>
