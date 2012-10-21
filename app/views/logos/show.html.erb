@@ -3,7 +3,7 @@
     <h1>
       <%= @logo.title %>
       <small>
-        <% if @logo.end_date <= Date.today %>
+        <% if @logo.end_date <= Date.today or not @logo.published? %>
           <%= I18n.l @logo.start_date, :format => :long %>
           -
           <%= I18n.l @logo.end_date, :format => :long %>

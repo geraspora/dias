@@ -15,6 +15,10 @@
     font-size: 0.8em;
     margin-bottom: -10px;
   }
+
+  &.unpublished {
+    background-color: #f08080;
+  }
 }
 
 .detail {

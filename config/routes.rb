@@ -2,6 +2,7 @@ Dias::Application.routes.draw do
   ActiveAdmin.routes(self)
 
   resources :logos, :only => [:index, :show]
+  match 'sneakpeek' => 'logos#sneakpeek'
   devise_for :admin_users, ActiveAdmin::Devise.config
   root :to => 'logos#index'
 
