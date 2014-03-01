@@ -9,14 +9,11 @@ layout: default
 
   <div class="row">
     {% for dia in site.posts %}
-
-      <div class="span3 logo">
-        <a href="{{dia.url}}" title="{{dia.title}}">
-          <img alt="{{dia.title}}" src="/images/{{dia.file}}">
-        </a>
+      <a class="span3 logo" href="{{dia.url}}" title="{{dia.title}}">
+        <img alt="{{dia.title}}" src="/images/{{dia.file}}">
         <h4 class="logotitle">{{dia.title}}</h4>
         <p class="logodate">{{dia.timespan}}</p>
-      </div>
+      </a>
 
       {% cycle 'close rows': nil, nil, nil, '</div><div class="row">' %}
     {% endfor %}

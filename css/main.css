@@ -39,3 +39,19 @@
 .detail section {
   margin-bottom: 30px;
 }
+
+@media (max-width: 979px) {
+  .hero-unit {
+    padding: 20px;
+  }
+
+  .hero-unit p {
+    margin-bottom: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .span3.logo {
+    margin-left: 0;
+  }
+}
