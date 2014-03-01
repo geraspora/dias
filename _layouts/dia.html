@@ -1,0 +1,21 @@
+{% include header.html %}
+
+<section id="donators">
+  <div class="page-header">
+    <h1>{{page.title}} <small>{{page.timespan}}</small></h1>
+  </div>
+
+  <div class="row detail">
+    <div class="span3 logo">
+      <img alt="{{page.title}}" src="/images/{{page.file}}" />
+    </div>
+
+    <div class="span9">
+      <section>{{content}}</section>
+    </div>
+  </div>
+
+  <a href="/" class="btn">« Zurück</a>
+</section>
+
+{% include footer.html %}

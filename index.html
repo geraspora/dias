@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<section>
+  <div class="page-header">
+    <h1>Die Dias <small>Für mehr Infos aufs Logo klicken</small></h1>
+  </div>
+
+  <div class="row">
+    {% for dia in site.posts %}
+
+      <div class="span3 logo">
+        <a href="{{dia.url}}" title="{{dia.title}}">
+          <img alt="{{dia.title}}" src="/images/{{dia.file}}">
+        </a>
+        <h4 class="logotitle">{{dia.title}}</h4>
+        <p class="logodate">{{dia.timespan}}</p>
+      </div>
+
+      {% cycle 'close rows': nil, nil, nil, '</div><div class="row">' %}
+    {% endfor %}
+  </div>
+</section>
