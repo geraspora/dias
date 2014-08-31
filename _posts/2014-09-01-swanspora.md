@@ -1,7 +1,7 @@
 ---
 layout: dia
 title: Swanspora
-file: 2014_01_01__Swanspora.png
+file: 2014_09_01__Swanspora.png
 timespan: August 2014
 ---
 
