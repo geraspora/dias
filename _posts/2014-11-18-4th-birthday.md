@@ -1,7 +1,7 @@
 ---
 layout: dia
 title: 4th Birthday
-file: 2014_11_18__4th_birthday.png
+file: 2014_11_18__4th_Birthday.png
 timespan: 18. November 2014 - 24. November 2013
 ---
 
