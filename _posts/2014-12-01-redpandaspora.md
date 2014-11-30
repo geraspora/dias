@@ -2,7 +2,7 @@
 layout: dia
 title: Redpandaspora
 file: 2014_12_01__Redpandaspora.png
-timespan: September 2014
+timespan: Dezember 2014
 ---
 
 ## Credits
