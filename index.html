@@ -10,7 +10,10 @@ layout: default
   <div class="row">
     {% for dia in site.posts %}
       <a class="span3 logo" href="{{dia.url}}" title="{{dia.title}}">
-        <img alt="{{dia.title}}" src="/images/{{dia.file}}">
+        <div class="logo_context" id="{{dia.title | downcase | slugify}}">
+          <img alt="{{dia.title}}" src="/images/{{dia.file}}">
+          {% if dia.additionalHtml %}{{ dia.additionalHtml }}{% endif %}
+        </div>
         <h4 class="logotitle">{{dia.title}}</h4>
         <p class="logodate">{{dia.timespan}}</p>
       </a>

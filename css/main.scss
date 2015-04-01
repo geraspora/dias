@@ -1,0 +1,94 @@
+---
+---
+
+.hero-unit {
+  padding: 60px 60px 20px;
+}
+
+.span3.logo {
+  text-align: center;
+  background-color: #eee;
+  color: #333;
+  border-radius: 6px 6px 6px 6px;
+  margin: 0 0 20px 20px;
+  padding: 20px 0;
+
+  .logodate {
+    font-size: 0.8em;
+    margin-bottom: -10px;
+  }
+
+  &.unpublished {
+    background-color: #f08080;
+  }
+}
+
+.logo_context {
+  position: relative;
+}
+
+.detail {
+  .page-header {
+    margin-top: 0;
+    margin-bottom: 15px;
+  }
+
+  h2 {
+    margin: 0 0px 15px;
+    font-size: 18px;
+    line-height: 20px;
+    padding-bottom: 9px;
+    border-bottom: 1px solid rgb(238, 238, 238);
+  }
+
+  p {
+    margin-bottom: 20px;
+  }
+
+  section {
+    margin-bottom: 30px;
+  }
+}
+
+#nsaspora {
+  .xeyes {
+    position: absolute;
+    top: 28px;
+    left: 68px;
+  }
+
+  .eyeball {
+    width: 23px;
+    height: 21px;
+    background: #FFF none repeat scroll 0% 0%;
+    border-radius: 50%;
+    float: left;
+    cursor: none;
+    margin-right: 4px;
+    box-shadow: 0px 0px 10px #000;
+    border: 1px solid #000;
+  }
+
+  .iris {
+    width: 7px;
+    height: 7px;
+    border-radius: 100%;
+    background: #000 none repeat scroll 0% 0%;
+  }
+}
+
+@media (max-width: 979px) {
+  .hero-unit {
+    padding: 20px;
+
+    p {
+      margin-bottom: 0;
+    }
+  }
+}
+
+@media (max-width: 767px) {
+  .span3.logo {
+    margin-left: 0;
+  }
+}
