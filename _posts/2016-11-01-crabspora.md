@@ -1,6 +1,6 @@
 ---
 layout: dia
-title: Crapspora
+title: Crabspora
 file: 2016_11_01__Crabspora.png
 timespan: November 2016
 ---
