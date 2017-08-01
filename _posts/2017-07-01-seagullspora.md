@@ -1,6 +1,6 @@
 ---
 layout: dia
-title: Seagull
+title: Seagullspora
 file: 2017_07_01__Seagullspora.png
 timespan: Juli 2017
 ---
