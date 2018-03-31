@@ -7,4 +7,4 @@ timespan: April 2018
 
 ## Credits
 
-Der Hai ist ein [Public Domain-Clipart von mi_brami](https://openclipart.org/detail/172430/shark-pure).
+Der Hai ist ein [Public Domain-Clipart von molumen](https://openclipart.org/detail/1669/white-shark).
