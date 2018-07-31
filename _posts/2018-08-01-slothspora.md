@@ -1,7 +1,7 @@
 ---
 layout: dia
 title: Slothspora
-file: 2018_08_01__Slothspora
+file: 2018_08_01__Slothspora.png
 timespan: August 2018
 ---
 
