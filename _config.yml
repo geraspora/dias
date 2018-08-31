@@ -1,6 +1,7 @@
 name: Dias
 markdown: redcarpet
 permalink: /dia/:year-:month-:day-:title.html
+future: true
 
 exclude:
   - .*
