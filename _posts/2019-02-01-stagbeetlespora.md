@@ -2,7 +2,7 @@
 layout: dia
 title: Stagbeetlespora
 file: 2019_02_01__Stagbeetlespora.png
-timespan: Februrar 2019
+timespan: Februar 2019
 ---
 
 ## Credits
