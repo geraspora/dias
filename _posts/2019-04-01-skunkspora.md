@@ -1,7 +1,7 @@
 ---
 layout: dia
-title: Stunkspora
-file: 2019_04_01__Stunkspora.png
+title: Skunkspora
+file: 2019_04_01__Skunkspora.png
 timespan: April 2019
 ---
 
