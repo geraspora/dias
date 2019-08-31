@@ -7,4 +7,4 @@ timespan: September 2019
 
 ## Credits
 
-Der Ara ist ein [Public Domain-Clipart](https://publicdomainvectors.org/en/free-clipart/Snake-cobra/79937.html).
+Die Cobra ist ein [Public Domain-Clipart](https://publicdomainvectors.org/en/free-clipart/Snake-cobra/79937.html).
