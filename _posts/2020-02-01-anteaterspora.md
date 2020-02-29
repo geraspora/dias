@@ -2,7 +2,7 @@
 layout: dia
 title: Anteaterspora
 file: 2020_02_01__Anteaterspora.png
-timespan: Februar 2019
+timespan: Februar 2020
 ---
 
 ## Credits
