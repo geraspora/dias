@@ -7,4 +7,4 @@ timespan: 9. Juni 2012 - 7. Juli 2012
 
 ## Credits
 
-Das Eichhörnchen ist ein [Public Domain-Clipart von Lemmling](http://openclipart.org/detail/17595/cartoon-squirrel-by-lemmling).
+Das Eichhörnchen ist ein [Public Domain-Clipart von Lemmling](https://web.archive.org/web/20140819100844/http://openclipart.org/detail/17595/cartoon-squirrel-by-lemmling).

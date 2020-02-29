@@ -7,4 +7,4 @@ timespan: Oktober 2015
 
 ## Credits
 
-Der Dackel ist ein [Public Domain-Clipart von Gerald_G](https://openclipart.org/detail/8508/dog-simple-drawing).
+Der Dackel ist ein [Public Domain-Clipart von Gerald_G](https://web.archive.org/web/20150923182158/https://openclipart.org/detail/8508/dog-simple-drawing).

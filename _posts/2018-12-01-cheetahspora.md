@@ -7,4 +7,4 @@ timespan: Dezember 2018
 
 ## Credits
 
-Der Gepard ist ein [Public Domain-Clipart von ha1flosse](https://openclipart.org/detail/27704/leopardcheetah).
+Der Gepard ist ein [Public Domain-Clipart von ha1flosse](https://web.archive.org/web/20200229225259/https://openclipart.org/detail/27704/leopardcheetah).

@@ -7,4 +7,4 @@ timespan: Februar 2014
 
 ## Credits
 
-Der Panda ist ein [Public Domain-Clipart von shu](http://openclipart.org/detail/88573/panda02-by-shu).
+Der Panda ist ein [Public Domain-Clipart von shu](https://web.archive.org/web/20140819113123/http://openclipart.org/detail/88573/panda02-by-shu).

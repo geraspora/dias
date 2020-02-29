@@ -7,4 +7,4 @@ timespan: November 2016
 
 ## Credits
 
-Die Krabbe ist ein [Public Domain-Clipart von Scout](https://openclipart.org/detail/192996/red-crab).
+Die Krabbe ist ein [Public Domain-Clipart von Scout](https://web.archive.org/web/20180405084012/https://openclipart.org/detail/192996/red-crab).

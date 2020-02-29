@@ -7,4 +7,4 @@ timespan: Dezember 2016
 
 ## Credits
 
-Der Papagei ist ein [Public Domain-Clipart von Merlin2525](https://openclipart.org/detail/193812/parrot-remix).
+Der Papagei ist ein [Public Domain-Clipart von Merlin2525](https://web.archive.org/web/20180318235424/https://openclipart.org/detail/193812/parrot-remix).

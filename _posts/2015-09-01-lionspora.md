@@ -7,4 +7,4 @@ timespan: September 2015
 
 ## Credits
 
-Der Löwe ist ein [Public Domain-Clipart von StudioFibonacci](https://openclipart.org/detail/22284/cartoon-lion).
+Der Löwe ist ein [Public Domain-Clipart von StudioFibonacci](https://web.archive.org/web/20180102051919/https://openclipart.org/detail/22284/cartoon-lion).

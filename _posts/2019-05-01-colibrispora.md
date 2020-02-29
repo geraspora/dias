@@ -7,4 +7,4 @@ timespan: Mai 2019
 
 ## Credits
 
-Der Colibri ist ein [Public Domain-Clipart von gurica](http://openclipart.org/detail/21276/colibri_birds-by-gurica).
+Der Colibri ist ein [Public Domain-Clipart von gurica](https://web.archive.org/web/20140819003556/http://openclipart.org/detail/21276/colibri_birds-by-gurica).

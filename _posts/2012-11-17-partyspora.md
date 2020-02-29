@@ -11,4 +11,4 @@ Geraspora wurde zwei Jahre alt und lernt so langsam das Krabbeln... ;)
 
 ## Credits
 
-Der Partyhut ist ein [Public Domain-Clipart von nicubunu](http://openclipart.org/detail/93931/birthday-icon-by-nicubunu-93931).
+Der Partyhut ist ein [Public Domain-Clipart von nicubunu](https://web.archive.org/web/20140703225907/http://openclipart.org/detail/93931/birthday-icon-by-nicubunu-93931).

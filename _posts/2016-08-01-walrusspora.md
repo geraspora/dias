@@ -7,4 +7,4 @@ timespan: August 2016
 
 ## Credits
 
-Das Walross ist ein [Public Domain-Clipart von StudioFibonacci](https://openclipart.org/detail/169963/cartoon-walrus).
+Das Walross ist ein [Public Domain-Clipart von StudioFibonacci](https://web.archive.org/web/20151001103612/https://openclipart.org/detail/169963/cartoon-walrus).

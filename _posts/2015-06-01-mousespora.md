@@ -7,4 +7,4 @@ timespan: Juni 2015
 
 ## Credits
 
-Die Maus ist ein [Public Domain-Clipart von artbejo](https://openclipart.org/detail/174870/mouse).
+Die Maus ist ein [Public Domain-Clipart von artbejo](https://web.archive.org/web/20150921214124/https://openclipart.org/detail/174870/mouse).

@@ -7,4 +7,4 @@ timespan: November 2013
 
 ## Credits
 
-Der Elefant ist ein [Public Domain-Clipart von lemmling](http://openclipart.org/detail/17810/-by--17810).
+Der Elefant ist ein [Public Domain-Clipart von lemmling](https://web.archive.org/web/20121106103030/http://openclipart.org:80/detail/17810/-by--17810).

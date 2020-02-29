@@ -7,4 +7,4 @@ timespan: Februar 2013
 
 ## Credits
 
-Der Frosch ist ein [Public Domain-Clipart von gammillian](http://openclipart.org/detail/76105/frog-by-gammillian).
+Der Frosch ist ein [Public Domain-Clipart von gammillian](https://web.archive.org/web/20120626003650/http://openclipart.org:80/detail/76105/frog-by-gammillian).

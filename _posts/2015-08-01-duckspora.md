@@ -7,4 +7,4 @@ timespan: August 2015
 
 ## Credits
 
-Die Ente ist ein [Public Domain-Clipart von andForMore](https://openclipart.org/detail/28844/cartoon-duck).
+Die Ente ist ein [Public Domain-Clipart von andForMore](https://web.archive.org/web/20151017021421/https://openclipart.org/detail/28844/cartoon-duck).

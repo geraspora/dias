@@ -7,4 +7,4 @@ timespan: Mai 2016
 
 ## Credits
 
-Der Salamander ist ein [Public Domain-Clipart von fzap](https://openclipart.org/detail/1364/salamander).
+Der Salamander ist ein [Public Domain-Clipart von fzap](https://web.archive.org/web/20150923150501/https://openclipart.org/detail/1364/salamander).

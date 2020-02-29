@@ -7,4 +7,4 @@ timespan: März 2018
 
 ## Credits
 
-Die Streifenhörnchen ist ein [Public Domain-Clipart von Keistutis](https://openclipart.org/detail/168572/chipmunk-very-fat).
+Die Streifenhörnchen ist ein [Public Domain-Clipart von Keistutis](https://web.archive.org/web/20150921174727/https://openclipart.org/detail/168572/chipmunk-very-fat).

@@ -7,4 +7,4 @@ timespan: August 2017
 
 ## Credits
 
-Der Jaguar ist ein [Public Domain-Clipart von frankes](https://openclipart.org/detail/167328/jaguar).
+Der Jaguar ist ein [Public Domain-Clipart von frankes](https://web.archive.org/web/20150909035451/https://openclipart.org/detail/167328/jaguar).

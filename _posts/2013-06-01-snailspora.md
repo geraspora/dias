@@ -7,4 +7,4 @@ timespan: Juni 2013
 
 ## Credits
 
-Die Schnecke ist ein [Public Domain-Clipart von Martouf](http://openclipart.org/detail/166284/snail-escargot-decroissance-by-martouf).
+Die Schnecke ist ein [Public Domain-Clipart von Martouf](https://web.archive.org/web/20140826045438/http://openclipart.org/detail/166284/snail-escargot-decroissance-by-martouf).

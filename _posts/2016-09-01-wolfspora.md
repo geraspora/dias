@@ -7,4 +7,4 @@ timespan: September 2016
 
 ## Credits
 
-Der Wolf ist ein [Public Domain-Clipart von GDJ](https://openclipart.org/detail/243849/howling-wolf-silhouette).
+Der Wolf ist ein [Public Domain-Clipart von GDJ](https://web.archive.org/web/20170627081123/https://openclipart.org/detail/243849/howling-wolf-silhouette).
