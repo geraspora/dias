@@ -1,7 +1,7 @@
 ---
 layout: dia
 title: Bunnyspora
-file: bunnyspora.png
+file: 2013_04_01_Bunnyspora.png
 timespan: April 2013
 ---
 
