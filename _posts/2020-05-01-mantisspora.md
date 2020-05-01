@@ -1,6 +1,6 @@
 ---
 layout: dia
-title: Manitsspora
+title: Mantisspora
 file: 2020_05_01__Mantisspora.png
 timespan: Mai 2020
 ---
