@@ -7,4 +7,4 @@ timespan: September 2020
 
 ## Credits
 
-Der [Schwalbenschwanz](https://de.wikipedia.org/wiki/Schwalbenschwanz_(Schmetterling)) ist ein [Public Domain-Clipart](http://web.archive.org/web/20170704210956/https://openclipart.org/detail/240981/butterfly).
+Der [Schwalbenschwanz](https://de.wikipedia.org/wiki/Schwalbenschwanz_(Schmetterling)) ist ein [Public Domain-Clipart](https://web.archive.org/web/20170704210956/https://openclipart.org/detail/240981/butterfly).

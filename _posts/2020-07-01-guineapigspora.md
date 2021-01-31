@@ -7,4 +7,4 @@ timespan: Juli 2020
 
 ## Credits
 
-Das Meerschweinchen ist ein [Public Domain-Clipart](http://web.archive.org/web/20160410140518/https://openclipart.org/detail/2695/guinea-pig).
+Das Meerschweinchen ist ein [Public Domain-Clipart](https://web.archive.org/web/20160410140518/https://openclipart.org/detail/2695/guinea-pig).
