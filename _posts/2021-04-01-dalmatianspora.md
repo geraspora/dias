@@ -1,8 +1,8 @@
 ---
 layout: dia
-title: Dalatinerspora
+title: Dalmatinerspora
 file: 2021_04_01__Dalmatianspora.png
-timespan: März 2021
+timespan: April 2021
 ---
 
 ## Credits
